@@ -67,7 +67,7 @@ My career goal is to continue advancing in the engineering field while utilizing
 
 If you're interested in collaborating on projects, or if you're looking for someone who can bring technical efficiency to your team, feel free to reach out!
 
-- Email: [your-email@example.com]
+- Email: [jackhamond@engineer.com]
 - LinkedIn: [Insert LinkedIn URL]
 - GitHub: [Insert GitHub URL]
 
