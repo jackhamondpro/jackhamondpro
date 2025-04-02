@@ -69,7 +69,7 @@ If you're interested in collaborating on projects, or if you're looking for some
 
 - Email: [jackhamond@engineer.com]
 - LinkedIn: [Insert LinkedIn URL]
-- GitHub: [Insert GitHub URL]
+- GitHub: [https://github.com/jackhamondpro]
 
 ---
 
