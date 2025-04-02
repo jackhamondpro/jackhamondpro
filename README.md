@@ -14,14 +14,14 @@ This repository serves as a showcase of my professional growth, side projects, a
 - **Primary Skills**:
   - Engineering and Technical Support
   - Automation and Scripting (POSIX/bash, Linux, WSL2)
-  - Coding in languages such as **x**, **y**, and **z**
+  - Coding in languages such as **python** and **golang**
   - Proficient with **Microsoft Suite** (Excel, Word, PowerPoint, etc.)
   
 ---
 
 ## Projects
 
-In this repository, you will find a collection of projects and scripts I have created to enhance my job performance. These include, but are not limited to:
+In my repositories, you will find a collection of projects and scripts I have created to enhance my job performance. These include, but are not limited to:
 
 - **POSIX/Bash Scripts**: Custom scripts to automate routine tasks and streamline workflows on my Linux-based systems.
 - **Linux Command-Line Utilities**: Practical examples of how I use Linux commands to solve complex problems at work.
@@ -45,13 +45,13 @@ While working full-time, I’ve developed side skills that improve my efficiency
   - Linux (WSL2)
   - Automation tools for routine tasks
 - **Programming Languages**:  
-  - **x**  
-  - **y**  
-  - **z**
+  - **Python**  
+  - **Golang**  
 - **Microsoft Suite**:
   - Excel (including VBA, macros)
   - Word
   - PowerPoint
+  - Access
 - **Problem-Solving and Efficiency**:
   - Leveraging technology to streamline processes and improve task efficiency
   
