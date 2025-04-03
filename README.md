@@ -1,4 +1,4 @@
-# Jack Hamond - Engineering Technician & Aspiring Civil Engineer
+# Jack Hamond - Engineering Technician
 
 Welcome to my GitHub profile! I'm Jack Hamond, an Engineering Technician with a passion for streamlining processes and improving efficiencies through technology. I am currently pursuing my **Civil Engineering Degree** online while working full-time in my field.
 
