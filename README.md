@@ -24,9 +24,9 @@ My GitHub account serves as a place to showcase my professional growth, side pro
 
 If you're interested in collaborating on projects, or if you're looking for someone who can bring technical efficiency to your team, feel free to reach out!
 
-- Email: [jackhamond@engineer.com](mailto:jackhamond@engineer.com)
-- LinkedIn: [Insert LinkedIn URL]
-- GitHub: [https://github.com/jackhamondpro](https://github.com/jackhamondpro)
+* Email: [jackhamond@engineer.com](mailto:jackhamond@engineer.com)
+* Website: [https://jackhamondpro.github.io](https://jackhamondpro.github.io)
+* GitHub: [https://github.com/jackhamondpro](https://github.com/jackhamondpro)
 
 ---
 
