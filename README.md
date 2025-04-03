@@ -6,7 +6,7 @@ My GitHub account serves as a place to showcase my professional growth, side pro
 
 ---
 
-## About Me
+## [About Me](https://jackhamondpro.github.io/about/)
 
 * **Name**: Jack Hamond
 * **Current Role**: Engineering Technician
